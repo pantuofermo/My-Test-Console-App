@@ -18,3 +18,15 @@ some even more stuff 2
 hi
 
 added a hotfix2 here from myhotfixbranch1
+
+
+
+
+
+-------------------------------------
+
+mynewbranch2 work
+
+------------------------------------
+
+more my new branch2 work
