@@ -30,6 +30,14 @@ mynewbranch2 work
 ------------------------------------
 
 more my new branch2 work
+mybranch2 work
+
+
+
+
+
+my branch2. work 1
+
 master work
 more my new branch2 work
 mybranch2 work
