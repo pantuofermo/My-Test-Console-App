@@ -40,6 +40,8 @@ my branch2. work 1
 
 my branch2. work 2
 
+my branch2. work 3
+
 master work
 more my new branch2 work
 mybranch2 work
